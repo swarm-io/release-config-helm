@@ -1,5 +1,5 @@
 {
-  "name": "@swarm-io/release-config-template",
+  "name": "@swarm-io/release-config-helm",
   "version": "1.0.0",
   "description": "semantic-release shareable release configuration template repository",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swarm-io/release-config-template.git"
+    "url": "git+https://github.com/swarm-io/release-config-helm.git"
   },
   "author": "swarm io",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/swarm-io/release-config-template/issues"
+    "url": "https://github.com/swarm-io/release-config-helm/issues"
   },
-  "homepage": "https://github.com/swarm-io/release-config-template#readme",
+  "homepage": "https://github.com/swarm-io/release-config-helm#readme",
   "dependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/commit-analyzer": "^9.0.2",
